@@ -16,3 +16,5 @@ app.use('/menuItem', menuItemRoutes);
 app.listen(3000, () => {
     console.log('server is listening on port 3000');
 });
+
+app.use('/person', personRoutes);

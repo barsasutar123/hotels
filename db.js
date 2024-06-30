@@ -28,4 +28,3 @@ db.on('disconnected', () => {
 
 
 module.exports = db;
-module.exports = vc;
